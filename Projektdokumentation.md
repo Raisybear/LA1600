@@ -1,9 +1,7 @@
 # LA1600
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Lime : Lucena Losada, Tuma, Spycher, Willi
+Lime : Lucena Losada, Tuma, Spycher, Willi
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
