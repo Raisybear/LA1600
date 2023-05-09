@@ -1,7 +1,7 @@
 # LA1600
 # Projekt-Dokumentation
 
-Lime : Lucena Losada, Tuma, Spycher, Willi
+Lime : Lucena, Tuma, Spycher, Willi
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -21,8 +21,21 @@ Wir möchten eine Website erstellen, welche die Angebote, Preise und sonstige vo
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | Muss            |Funktional| Als User möchte ich, wenn ich den Link öffne auf die Startseite gelangen. |
+| 2    | Muss            |Funktional| Als User möchte ich, dass die verschiedenen Kategorien in einer Taskbar aufgelistet sind.|
+| 3    | Kann            |Qualität  | Als User möchte ich, dass ich auf der Webseite mehr über die Tradition erfahren.|
+| 4    | Kann            |Qualität  | Als User möchte ich, dass es eine Kategorie Wettkampfregeln gibt, damit sich Wettkämpfer und Eltern über die Regeln informieren könenn.|
+| 5    | Muss            |Funktional| Als User mächte ich, genauere Infors zu dem Dojo in Urdorf erfahren.|
+| 6    | Muss            |Funktional| Als User möchte ich, genauere Infos zu dem Dojo in Dietikon erfahren.|
+| 7    | Kann            |Qualität  | Als User möchte ich, dass ich auf der Webseite erfahre, warum ich genau zu diesem Verein gehen soll.|
+| 8    | Muss            |Funktional| Als User möchte ich, mehr über die Coaches erfahren.|
+| 9    | Muss            |Funktional| Als User möchte ich, die verschiedenen Angebote des Clubs erfahren. |
+| 10   | Muss            |Funktional| Als User möchte ich, die Kontaktdaten auf der Website wiederfinden.| 
+| 11   | Kann            |Qualität  | Als  User möchte ich einen Home Button um direkt auf die Startseite zu gelangen.|
+| 12   | Kann            |Qualität  | Als User möchte ich, verschiedene Optionen für den Farbhintergrund haben.| 
+| 13   | Muss            |Funktional| Als User möchte ich, dass Preis und Kurse unter den Angeboten wiederzufinden sind.| 
+| 14   | Kann            | Qualität | Als User möchte ich, dass beim Wettkampfreglement in Kata und Kumite unterschieden wird.| 
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -30,21 +43,68 @@ Wir möchten eine Website erstellen, welche die Angebote, Preise und sonstige vo
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Link erhalten, Browser geöffnet|Link in Taskleiste, Enter gedrückt| Website öffnet sich, Startseite wird angezeigt|
+| 2.1  | Startseite ist geöffnet| Klick auf das Taskbarzeichen |Die Leiste öffnet sich.|
+| 3.1  | Taskleiste ist geöffnet| Klick auf Tradition| Text über Tradition wird angezeigt.|
+| 4.1  | Taskleiste ist geöffnet| Klick auf Wettkampfreglement| Wahl für Kumite oder Kata Regeln wird angezeigt.| 
+| 5.1  | Taskleiste ist geöffnet| Klick auf Dojo Urdorf| Informationen zum Dojo Urdorf werden angezeigt.| 
+| 6.1  | Taskleiste ist geöffnet| Klick auf Dojo Dietikon| Information zum Dojo Dietikon werden angezeigt.|
+| 7.1  | Taskleiste ist geöffnet| Klick auf Warum Nippon Training| Argumente für Nippon Training erscheinen.| 
+| 8.1  | Taskleiste ist geöffnet| Klick auf Coaches | Coaches erscheinen.|
+| 9.1  | Taskleiste ist geöffnet| Klick auf Angebote| Wahl für Preise und Kurse wird angezeigt.| 
+| 10.1 | Taskleiste ist geöffnet| Klick auf Kontakt | Kontaktdaten erscheinen.| 
+| 11.1 | Wettkampfreglement ist geöffnet| Klick auf Homebutton| Startseite erscheint.| 
+| 12.1| Button zum Frabwechseln öffnen| Farbe rot auswählen| Hintergrund wird rot|
+| 12.2 | Button zum Frabwechseln öffnen| Farbe schwarz auswählen| Hintergrund wird schwarz| 
+| 12.3 | Button zum Frabwechseln öffnen| Farbe weiss auswählen| Hintergrund wird weiss.| 
+| 13.1 | Wahl für Kurse oder Preis wird angezeigt| Preis auswählen| Preise werden angezeigt.| 
+| 13.2 | Wahl für Kurse oder Preis wird angezeig| Kurse auswählen| Kurse werden angezeigt. | 
+| 14.1 | Wahl für Kata oder Kumite wird angezeigt| Kata auswählen| Kataregeln werden angezeigt.|
+| 14.2 | Wahl für Kata oder Kumite wird angezeigt| Kumite auswählen| Kumiteregeln werden angezeigt.|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
+![50e1bcba-35b0-4801-9762-958636b5b41f](https://user-images.githubusercontent.com/110892622/237055123-75021b37-bb13-490d-9b7d-bc9e6ec4101b.jpg)
+![485ee20e-b9e4-4253-b846-2e4bd3bb46c8](https://user-images.githubusercontent.com/110892622/237055134-8a98a857-bb2c-4d22-baac-add68d8d5ab7.jpg)
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |23.05.2023| Cedric Tuma| Programmieren und Design der Startseite|1|
+| 2.A  |23.05.2023| Samuel Lucena|  Erstellen Dropdown |      1        |
+| 3.A  |23.05.2023| Rebecca Willi| Erstellen und programmierem Button Tradition|1|
+| 3.B  |23.05.2023 |Rebecca Willi| Erstellen und Design Websitenteil Tradition|1|
+| 4.A  |23.05.2023 |Rebecca Willi| Erstellen und programmieren Button Wettkampfreglement|1|
+| 5.A  |23.05.2023|Elias Spycher| Erstellen und programmieren Button Dojo Urdorf|1|
+| 5.B  |23.05.2023 | Elias Spycher| Erstellen und Design Webseitenteil Dojo Urdorf|1|
+| 6.A  |23.05.2023 | Cedric Tuma | Erstellen und programmieren Button Dojo Dietikon|1| 
+| 6.B |23.05.2023 |Cedric Tuma | Erstellen und Design Webseitenteil Dojo Dietikon|1|
+| 7.A |23.05.2023 |Samuel Lucena| Erstellen und programmieren Button Coaches|1|
+| 7.B |23.05.2023| Samuel Lucena| Erstellen und Design Webseitenteil Coaches|1|
+| 8.A |23.05.2023| Elias Spycher| Erstellen und programmieren Button Warum Nippon?|1|
+| 8.B |23.05.2023| Elias Spycher| Erstellen und Design Webseitenteil Warum Nippon?|1|
+| 9.A |23.05.2023| Cedric Tuma | Erstellen und programmieren Button Angebot|1|
+| 10.A|23.05.2023| Samuel Lucena| Erstellen und programmieren Button Kontakt|1|
+| 10.B|23.05.2023| Samuel Lucena| Erstellen und Design Webseitenteil Kontakt|1|
+| 11.A|30.05.2023| Elias Spycher| Erstellen und programmiernen Homebutton|1|
+| 12.A|30.05.2023| Cedric Tuma | Erstellen und programmieren Button Hintergrund|1|
+| 12.B|30.05.2023| Cedric Tuma | Erstellen und programmieren Farbhintergrund rot|1|
+|12.C|30.05.2023| Cedric Tuma | Erstellen und programmieren Farbhintergrund weiss|1|
+| 12.D|30.05.2023| Cedric Tuma| Erstellen und Programmieren Farbhintergrund scwarz|1|
+| 13.A|30.05.2023| Samuel Lucena| Button zur Wahl zwischen Preis und Kurse erstellen|1|
+| 13.B|30.05.2023| Samuel Lucena| Erstellen und Design für Webseitenteil Preis |1|
+| 13.C|30.05.2023| Samuel Lucena| Filter für Preis für jeweilige Zeitdauer erstellen|1|
+| 13.D|30.05.2023|Elias Spycher | Erstellen Button zur Wahl zwischen Kids und Erwachsenen Kurse|1|
+| 13.E|30.05.2023| Elias Spycher| Erstellen und Design Webseitenteil Kids Kurse|1|
+| 13.F|30.05.2023| Elias Spycher| Erstellen Filter Kursschwierigkeit Kids Kurse|1|
+| 13.G|30.05.2023| Rebecca Willi| Erstellen und Design Erwachsenen Kurse|1|
+| 14.A|30.05.2023| Rebecca Willi| Erstellen Button Wahl Kumite Kata|1|
+| 14.B|30.05.2023| Rebecca Willi| Filter für Alterskategorein Kumite und Kata erstellen|1|
+| 14.C|30.05.2023|Rebecca Willi| Erstellen und Design Webseitenteil Reglement Kumite|1|
+| 14.D|30.05.2023| Rebecca Willi| Erstellen und Design Webseitenteil Reglement Kata|1|
+
 
 Total: 
 
