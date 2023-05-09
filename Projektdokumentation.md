@@ -13,9 +13,9 @@ Lime : Lucena Losada, Tuma, Spycher, Willi
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wie erstellen eine Website über den Kampfsportverein Nippon Training.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir möchten eine Website erstellen, welche die Angebote, Preise und sonstige von dem Verein Nippon Training aufführt. Wir hoffen hierbei die Grundlagen von CSS besser kennenzulernen.
 
 ### 1.2 User Stories
 
