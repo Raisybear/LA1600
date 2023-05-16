@@ -5,8 +5,8 @@ Lime : Lucena, Tuma, Spycher, Willi
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 09.05.2023| 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
+| 09.05.2023| 0.0.1   | Kapitel 1-3 ausgefüllt |
+| 16.05.2023| 0.0.2   | Erstes Bearbeiten der Arbeitspakete|
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -120,8 +120,8 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 13.B  |16.05.2023 |Rebecca Willi| 1 | 3 |
+| 7.B  | 16.05.2023  | Samuel Lucena  |   1      |     2      |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
