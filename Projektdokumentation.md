@@ -122,9 +122,7 @@ Total:
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 13.B  |16.05.2023 |Rebecca Willi| 1 | 3 |
 | 7.B  | 16.05.2023  | Samuel Lucena  |   1      |     2      |
-| 14.A| 22.05.2023| Rebecca Willi| 1| 2|
-|14.C| 23.05.2023| Rebecca Willi| 1| 2|
-| 14.D| 23.05.2023| Rebecca Willi|1| 3| 
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
