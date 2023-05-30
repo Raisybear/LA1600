@@ -142,8 +142,9 @@ Total: 39x 1 = 39x 45Min
 | 7.B  | 16.05.2023  | Samuel Lucena  |   1      |     2      |
 | 13.B  |16.05.2023 |Rebecca Willi| 1 | 3 |
 |14.A| 23.05.2023| Rebecca Willi| 1|2|
-|14.C| 30.05.2023| Rebecca Willi| 1| 3|
+|14.C| 23.05.2023| Rebecca Willi| 1| 3|
 |14.D| 30.05.2023| Rebecca willi| 1|3|
+|17.A|30.05.2023/06.06.2023|Rebecca Willi| 1|1... |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
