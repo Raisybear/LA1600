@@ -8,7 +8,7 @@ Lime : Lucena, Tuma, Spycher, Willi
 | 09.05.2023| 0.0.1   | Kapitel 1-3 ausgefüllt |
 | 16.05.2023| 0.0.2   | Taskbar und Startseite erstellt. |
 | 23.05.2023| 0.0.3 | Gesamte Seite haben wir in die 4 Unterseiten Trainer, Tradition, Angebote und Training erstellt und selbstständig jeweils eine bearbeitet.| 
-| 30.05.2023| 1.0.1   |                                                              |
+| 30.05.2023| 1.0.1   | Wir haben die User Stories mit den gestelten Anforderungen erweiter und diese dann sofort versucht umzusetzten.|
 
 ## 1 Informieren
 
@@ -36,7 +36,10 @@ Wir möchten eine Website erstellen, welche die Angebote, Preise und sonstige vo
 | 12   | Kann            |Qualität  | Als User möchte ich, verschiedene Optionen für den Farbhintergrund haben.| 
 | 13   | Muss            |Funktional| Als User möchte ich, dass Preis und Kurse unter den Angeboten wiederzufinden sind.| 
 | 14   | Kann            | Qualität | Als User möchte ich, dass beim Wettkampfreglement in Kata und Kumite unterschieden wird.| 
-| 15   | Muss            | Qualität | Als User möchte ich, dass mir die Personen mit einem Bild angezeigt wird, welches sich verändert, wenn man drüber hovert. 
+| 15   | Muss            | Qualität | Als Benutzer möchte ich, dass die verschieden Trainer mit einem Bild dargestellt werden, welches sich verändert, wenn ich darüber hovere. |
+| 16   | Muss            | Qualität | Als Benutzer möchte ich, dass das Hamburger-Menu mir nur auf einem kleinen Bildschirm angezeigt wird|
+| 17   | Muss            | Qualität|  Als interessierter Konsument möchte ich eine Tabelle sehen, auf welcher ich verschiedene Abos vergleichen kann. Diese sollte sich so verhalten, dass die Zeile, über die ich gerade hovere, besonders hervorgehoben wird.
+| 18   | Muss            | Qualität |  Als Benutzer möchte ich auf der Startseite einige motivierende Bilder sehen, welche automatisch wechseln ("carousel").|
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -65,6 +68,11 @@ Wir möchten eine Website erstellen, welche die Angebote, Preise und sonstige vo
 | 14.2 | Wahl für Kata oder Kumite wird angezeigt| Kumite auswählen| Kumiteregeln werden angezeigt.|
 | 15.1 | Startseite ist geöffnet| Feld Personen in der Taskbar auswählen| Alle Trainer werden mit Foto angezeigt|
 | 15.2| Seite der Trainer ist geöffnet| Mauszeiger auf ein Bild eines Trainers| Bild wird grösser| 
+| 16.1|Startseite ist geöffnet| Umstellem auf kleinen Bildschirm| Hamburger-Menu wird angezeigt|
+|16.2 | Seite ist auf kleinem Bildschirm geöffnet| Umstellen auf grossen Bildschirm| Normales Menu erscheint|
+| 17.1| Menu ist geöffnet| Angebote auswählen| Angebote erscheinen in einer Tabelle|
+| 17.2| Seite mit den Angeboten ist geöffnet| Über eine Zeile mit Preisen hovern| Zeile wird hervorgehoben| 
+| 18.1| Link in Taskleiste eingeben| Startseite öffnen| Bilder werden abwechselnd gezeigt| 
 
 
 ### 1.4 Diagramme
@@ -111,9 +119,13 @@ Wir möchten eine Website erstellen, welche die Angebote, Preise und sonstige vo
 | 14.D|30.05.2023| Rebecca Willi| Erstellen und Design Webseitenteil Reglement Kata|1|
 | 15.A|13.06.2023| Samuel Lucena| Bilder zu den jeweiligen Trainer einfügen| 1|
 | 15.B|13.06.2023| Samuel Lucena| Programmieren des vergrössern der Bilder beim drüber hovern.| 1|
+| 16.A|13.06.2023| Cedric Tuma  | Programmieren Hamburger-Menu für kleine Bildschirme| 1| 
+| 16.B|13.06.2023| Cedric Tuma  | Programmieren Menu für grosse Bildschirme| 1|
+|17.A |13.06.2023|Rebecca Willi | Programmieren des hervorhebens bei der Tabelle|1|
+|18.A| 13.06.2023| Elias Spycher| Programmieren "carousel" auf Startseite|1|
 
 
-Total: 35x 1 = 35x 45Min
+Total: 39x 1 = 39x 45Min
 
 
 
