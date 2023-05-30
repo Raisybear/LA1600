@@ -3,7 +3,6 @@
     --fontcolor: #000000;
     --nav: #rot;
 }
-
 body{
     padding: 0;
     margin: 0;
@@ -34,7 +33,30 @@ body{
     text-align: center;
 }
 ul {
+    display: block;
+    color: #fff;
+    font-color: var(--fontcolor);
+    text-align: center;
+    padding: 25px 24px;
+    text-decoration: none;
+    font-color: black;
+    font-family: "Gill Sans MT";
+    font-weight: 500;
+    list-style: none;
+    justify-content: center;
+    background-color: #F7ECDE;
+}
 
+ul:hover{
+    background-color: white;
+}
+ul li{
+    margin: 0 20px;
+    float: left;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
 }
 .main{
     grid-area: main;
