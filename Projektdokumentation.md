@@ -6,8 +6,9 @@ Lime : Lucena, Tuma, Spycher, Willi
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 09.05.2023| 0.0.1   | Kapitel 1-3 ausgefüllt |
-| 16.05.2023| 0.0.2   | Erstes Bearbeiten der Arbeitspakete|
-|       | 1.0.0   |                                                              |
+| 16.05.2023| 0.0.2   | Taskbar und Startseite erstellt. |
+| 23.05.2023| 0.0.3 | Gesamte Seite haben wir in die 4 Unterseiten Trainer, Tradition, Angebote und Training erstellt und selbstständig jeweils eine bearbeitet.| 
+| 30.05.2023| 1.0.1   |                                                              |
 
 ## 1 Informieren
 
@@ -35,6 +36,7 @@ Wir möchten eine Website erstellen, welche die Angebote, Preise und sonstige vo
 | 12   | Kann            |Qualität  | Als User möchte ich, verschiedene Optionen für den Farbhintergrund haben.| 
 | 13   | Muss            |Funktional| Als User möchte ich, dass Preis und Kurse unter den Angeboten wiederzufinden sind.| 
 | 14   | Kann            | Qualität | Als User möchte ich, dass beim Wettkampfreglement in Kata und Kumite unterschieden wird.| 
+| 15   | Muss            | Qualität | Als User möchte ich, dass mir die Personen mit einem Bild angezeigt wird, welches sich verändert, wenn man drüber hovert. 
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -61,6 +63,8 @@ Wir möchten eine Website erstellen, welche die Angebote, Preise und sonstige vo
 | 13.2 | Wahl für Kurse oder Preis wird angezeig| Kurse auswählen| Kurse werden angezeigt. | 
 | 14.1 | Wahl für Kata oder Kumite wird angezeigt| Kata auswählen| Kataregeln werden angezeigt.|
 | 14.2 | Wahl für Kata oder Kumite wird angezeigt| Kumite auswählen| Kumiteregeln werden angezeigt.|
+| 15.1 | Startseite ist geöffnet| Feld Personen in der Taskbar auswählen| Alle Trainer werden mit Foto angezeigt|
+| 15.2| Seite der Trainer ist geöffnet| Mauszeiger auf ein Bild eines Trainers| Bild wird grösser| 
 
 
 ### 1.4 Diagramme
@@ -74,6 +78,7 @@ Wir möchten eine Website erstellen, welche die Angebote, Preise und sonstige vo
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |23.05.2023| Cedric Tuma| Programmieren und Design der Startseite|1|
 | 2.A  |23.05.2023| Samuel Lucena|  Erstellen Dropdown |      1        |
+| 2.B  | 23.05.2023| Elias Spycher| Design Dropdown| 1|
 | 3.A  |23.05.2023| Rebecca Willi| Erstellen und programmierem Button Tradition|1|
 | 3.B  |23.05.2023 |Rebecca Willi| Erstellen und Design Websitenteil Tradition|1|
 | 4.A  |23.05.2023 |Rebecca Willi| Erstellen und programmieren Button Wettkampfreglement|1|
@@ -104,13 +109,13 @@ Wir möchten eine Website erstellen, welche die Angebote, Preise und sonstige vo
 | 14.B|30.05.2023| Rebecca Willi| Filter für Alterskategorein Kumite und Kata erstellen|1|
 | 14.C|30.05.2023|Rebecca Willi| Erstellen und Design Webseitenteil Reglement Kumite|1|
 | 14.D|30.05.2023| Rebecca Willi| Erstellen und Design Webseitenteil Reglement Kata|1|
+| 15.A|13.06.2023| Samuel Lucena| Bilder zu den jeweiligen Trainer einfügen| 1|
+| 15.B|13.06.2023| Samuel Lucena| Programmieren des vergrössern der Bilder beim drüber hovern.| 1|
 
 
-Total: 
+Total: 35x 1 = 35x 45Min
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
@@ -120,8 +125,10 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 13.B  |16.05.2023 |Rebecca Willi| 1 | 3 |
+| 2.A| 16.05.2023| Elias Spycher| 1| 3| 
+| 2.B| 23.05.2023| Elias Spycher| 1| 3|
 | 7.B  | 16.05.2023  | Samuel Lucena  |   1      |     2      |
+| 13.B  |16.05.2023 |Rebecca Willi| 1 | 3 |
 |14.A| 22.05.2023| Rebecca Willi| 1|1|
 |14.C| 23.05.2023| Rebecca Willi| 1| 3|
 |14.D| 23.05.2023| Rebecca willi| 1|3|
