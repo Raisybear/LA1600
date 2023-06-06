@@ -5,7 +5,7 @@
 }
 
 html {
-  height: 100%;
+  height: 80%;
 }
 
 /* Background */
@@ -86,4 +86,12 @@ nav ul li ul li a {
 
 nav ul li ul li a:hover {
   background-color: #ffbbd4;
+}
+
+main {
+  grid-row: 2;
+}
+
+footer {
+  grid-row: 3;
 }
