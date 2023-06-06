@@ -1,31 +1,75 @@
 <!DOCTYPE html>
 <html>
     <head>
-<style>
+ <style>
       
-      table, tr,th {
-           
-           border: 1px solid black;
-         }
-</style>
+        table, tr,th {
+             
+             border: 1px solid black;
+             border-collapse: collapse;
+            
+           }
+      
+           tbody tr:hover, tfoot tr:hover { 
+    background-color:#f96f12;
+  }
+  
+  tbody td:hover, tfoot td:hover { 
+    background-color: #ea3706; 
+  }
+  
+          
+          
+          th,td {
+              padding: .1em .4em;
+              border-radius: .1em;
+          }
+           th {
+              background-color: rgb(255, 255, 255);
+              color: #000000
+          }
+  
+          th{
+              text-align: center;
+              box-shadow: inset 3px 5px 7px -1px rgba(2,2,2,.7);
+          }
+  
+          td:empty
+          {
+           box-shadow: none;
+          }
+          header{
+        
+            background-color: red;
+          }
+
+          footer{
+            background-color: red;
+            if(max-width: ;)
+          }
+              
+          
+          
+  </style>
     </head>
     <body>
-
+        <header>
         <p align="center">
             <img
               src="https://haris.ch/wp-content/uploads/2017/07/logo-nippon.jpg"
               width="200"
             />
-          </p>
-        
-
+        </p>
+  
+        </header>
         <h1>
 
         <p> Preisangebote</p>
         </h1>
+        
      
- <table>
-    <caption><h2>Erwachsenenkurse</h2> </caption>
+        <table class="center">
+    <caption> Erwachsenenkurse </caption>
         
      <tr> 
             <th>  </th>
@@ -39,64 +83,54 @@
             
         </tr>
 
-        <tr>
-            <th> </th>
-            <th></th>
-            <th></th>
-            <th></t>
-            <th> </th>
-            <th></th>
-            <th></th>
-            <th></th>
-
-        </tr>
+     
         <tr>
             <th> 1 Monat</th>
-            <th>299.-</th>
-            <th>299.-</th>
-            <th>299.-</th>
-            <th> 299.-</th>
-            <th> 299.-</th>
-            <th> 299.-</th>
-            <th> 299.-</th>
+            <td align="center"> 299.-</td>
+            <td align="center">299.-</td>
+            <td align="center">299.-</td>
+            <td align="center"> 299.-</td>
+            <td align="center"> 299.-</td>
+            <td align="center"> 299.-</td>
+            <td align="center"> 299.-</td>
         </tr>
         <tr>
             <th>3 Monate </th>
-            <th> 399.-</th>
-            <th> 399.-</th>
-            <th> 399.-</th>
-            <th> 449.-</th>
-            <th> 449.-</th>
-            <th> 499.-</th>
-            <th> 399.-</th>
+            <td align="center"> 399.-</td>
+            <td align="center"> 399.-</td>
+            <td align="center"> 399.-</td>
+            <td align="center"> 449.-</td>
+            <td align="center"> 449.-</td>
+            <td align="center"> 499.-</td>
+            <td align="center"> 399.-</td>
         </tr>
         <tr>
             <th> 6 Monate</th>
-            <th> 649.- </th>
-            <th> 649.- </th>
-            <th> 699.- </th>
-            <th> 799.- </th>
-            <th> 799.- </th>
-            <th> 899.- </th>
-            <th> 699.- </th>
+            <td align="center"> 649.- </td>
+            <td align="center"> 649.- </td>
+            <td align="center"> 699.- </td>
+            <td align="center"> 799.- </td>
+            <td align="center"> 799.- </td>
+            <td align="center"> 899.- </td>
+            <td align="center"> 699.- </td>
         </tr>
         <tr>
             <th>12 Monate</th>
-            <th> 1099.-</th>
-            <th> 1099.-</th>
-            <th> 1199.-</th>
-            <th> 1199.-</th>
-            <th> 1299.-</th>
-            <th> 1399.-</th>
-            <th> 1199.-</th>
+            <td align="center"> 1099.-</td>
+            <td align="center"> 1099.-</td>
+            <td align=" center"> 1199.-</td>
+            <td align="center"> 1199.-</td>
+            <td align="center"> 1299.-</td>
+            <td align="center"> 1399.-</td>
+            <td align="center"> 1199.-</td>
         </tr>
     
 </table>
 
 
 
-<table>
-    <caption><h2>Kidskurse</h2></caption>
+<table class="center">
+    <caption>Kidskurse</caption>
 
         <tr>
             <th>       </th>
@@ -106,27 +140,63 @@
         </tr>
         <tr>
             <th> 3 Monate</th>
-            <th> 299.- </th>
-            <th>366.-.- </th>
-            <th>399.-.-</th>
+            <td align="center"> 299.- </td>
+            <td align="center">366.-.- </td>
+            <td align="center">399.-.-</td>
         </tr>
         <tr>
             <th> 6 Monate </th>
-            <th>399.-</th>
-            <th>599.-</th>
-            <th>699.-</th>
+            <td align="center">399.-</td>
+            <td align="center">599.-</td>
+            <td align="center">699.-</td>
 
         </tr>
         <tr>
             <th> 12 Monate</th>
-            <th> 699.-</th>
-            <th>899.-</th>
-            <th>1099.-</th>
-        </tr>
-        
+            <td align="center"> 699.-</td>
+            <td align="center">899.-</td>
+            <td align="center">1099.-</td>
+        </tr>   
+</table>  
 
-</table>
-  
-        
+<footer>
+
+    <p>
+        Nippon in Dietikon
+Nippon Training
+
+Silbernstrasse 10
+
+8953 Dietikon
+    </p>
+
+ 
+<p>
+Nippon in Urdorf
+Nippon Training
+
+Birmensdorferstrasse 136
+
+8902 Urdorf
+</p>
+ <p>
+
+Kontakt
++41 (0)44 734 11 11
+
+info@haris.ch
+
+ </p>
+ <p>
+Öffnungszeiten
+Montag bis Freitag
+
+09:00 - 22:00
+
+Samstag
+
+09:00 - 13:00
+    </p>
+</footer>
     </body>
 </html>
