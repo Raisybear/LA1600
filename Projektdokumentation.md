@@ -7,8 +7,9 @@ Lime : Lucena, Tuma, Spycher, Willi
 | ----- | ------- | ------------------------------------------------------------ |
 | 09.05.2023| 0.0.1   | Kapitel 1-3 ausgefüllt |
 | 16.05.2023| 0.0.2   | Taskbar und Startseite erstellt. |
-| 23.05.2023| 0.0.3 | Gesamte Seite haben wir in die 4 Unterseiten Trainer, Tradition, Angebote und Training erstellt und selbstständig jeweils eine bearbeitet.| 
+| 23.05.2023| 0.0.3   | Gesamte Seite haben wir in die 4 Unterseiten Trainer, Tradition, Angebote und Training erstellt und selbstständig jeweils eine bearbeitet.| 
 | 30.05.2023| 1.0.1   | Wir haben die User Stories mit den gestelten Anforderungen erweiter und diese dann sofort versucht umzusetzten.|
+| 06.06.2023| 1.0.2   | | 
 
 ## 1 Informieren
 
@@ -144,7 +145,7 @@ Total: 39x 1 = 39x 45Min
 |14.A| 23.05.2023| Rebecca Willi| 1|2|
 |14.C| 23.05.2023| Rebecca Willi| 1| 3|
 |14.D| 30.05.2023| Rebecca willi| 1|3|
-|17.A|30.05.2023/06.06.2023|Rebecca Willi| 1| 2 |
+|17.A|30.05.2023/06.06.2023|Rebecca Willi| 1|  |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
