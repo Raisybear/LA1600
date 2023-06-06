@@ -227,6 +227,10 @@ nav ul li ul li a:hover {
     background-color: #ffbbd4;
   }
   .container {
-    visibility: hidden;
+    display: none;
+  }
+
+  .main {
+    text-align: start;
   }
 }
