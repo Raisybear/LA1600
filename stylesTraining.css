@@ -1,14 +1,15 @@
 :root{
-    --background: #F7ECDE;
-    --fontcolor: #000000;
-    --nav: #rot;
+    --background: white;
+    --nav:red;
+    --navhover:darkred;
+    --fontcolor: #383636;
 }
 body{
     padding: 0;
     margin: 0;
     background: var(--background);
     color: var(--fontcolor);
-    font-family: "Apple Braille";
+    font-family: "Gill Sans MT";
 }
 .container{
     display: grid;
@@ -20,69 +21,153 @@ body{
         "main"
         "foot";
 }
-.header{
+header{
     grid-area: head;
-    margin: 16px;
+    font-size: 50px;
     text-align: center;
-}
-.nav{
-    margin: 20px;
-    grid-area: nav;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-}
-ul {
-    display: block;
-    color: #fff;
-    font-color: var(--fontcolor);
-    text-align: center;
-    padding: 25px 24px;
-    text-decoration: none;
-    font-color: black;
-    font-family: "Gill Sans MT";
-    font-weight: 500;
-    list-style: none;
-    justify-content: center;
-    background-color: #F7ECDE;
-}
-
-ul:hover{
     background-color: white;
 }
-ul li{
+.wappen{
+    float: center;
+    margin: 20px;
+    max-width: 200px;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    marrgin: 0;
+    background-color: red;
+}
+ul li {
     margin: 0 20px;
-    float: left;
+    background-color: red;
 }
-ul li a{
+ul li a {
     text-decoration: none;
-    color: black;
+    color: #fff;
 }
-.main{
+main{
     grid-area: main;
     text-align: justify;
     font-size: 22px;
     margin: 25px;
 }
-.logo{
-    max-width: 100%;
-    max-height: 100%;
-    display: flex;
-    justify-content: center;
-    allign-items: center;
+h1{
+    text-align: center;
 }
-.logo img{
-    max-width: 100%;
-    max-height: 100%;
-    width: auto;
-    height: auto;
-}
-.footer{
+footer{
     grid-area: foot;
-    text-allign: center;
+    text-align: center;
     padding: 20px;
     background: var(--nav);
     color: white;
-    background-color: red;
-    color: black;
+}
+li{
+    float:left;
+    margin-left: auto;
+    margin-right: auto;
+}
+li{
+    float:left;
+}
+li a{
+    display: block;
+    color: var(--fontcolor);
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration: none;
+    font-family: "Gill Sans MT";
+    font-weight: 500;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: var(--nav);
+}
+li a:hover {
+    background-color: var(--navhover);
+}
+input[type="checkbox"] {
+    display: none;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+}
+.toggle_button {
+    width: 30px;
+    height: 23px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.bar {
+    height: 4px;
+    width: 100%;
+    background: var(--fontcolor);
+}
+#toggle_button:checked ~ ul {
+    display: block;
+}
+@media screen and (max-width: 600px) {
+    .main {
+        font-size: 18px;
+        text-align: justify;
+    }
+    li a {
+        display: block;
+        text-align: center;
+        padding: 25px 24px;
+        text-decoration: none;
+        font-family: "Gill Sans MT";
+        font-weight: 500;
+        font-size: 16px;
+    }
+    li{
+        float: none;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .toggle_button {
+        width: 30px;
+        height: 23px;
+        position: absolute;
+        top: 25px;
+        left: 25px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .bar {
+        height: 4px;
+        width: 100%;
+        background: var(--fontcolor);
+    }
+    #toggle_button:checked ~ ul {
+        display: block;
+    }
 }
