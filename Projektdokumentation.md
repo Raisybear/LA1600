@@ -9,7 +9,8 @@ Lime : Lucena, Tuma, Spycher, Willi
 | 16.05.2023| 0.0.2   | Taskbar und Startseite erstellt. |
 | 23.05.2023| 0.0.3   | Gesamte Seite haben wir in die 4 Unterseiten Trainer, Tradition, Angebote und Training erstellt und selbstständig jeweils eine bearbeitet.| 
 | 30.05.2023| 1.0.1   | Wir haben die User Stories mit den gestelten Anforderungen erweiter und diese dann sofort versucht umzusetzten.|
-| 06.06.2023| 1.0.2   | | 
+| 06.06.2023| 1.0.2   |Wir haben die User Stories 15-18 weiter bearbeitet. | 
+| 13.06.2023| 1.0.3   | Wir haben die User <stories 15-18 fertig bearbeitet und alles zusammengefügt.|
 
 ## 1 Informieren
 
