@@ -96,10 +96,10 @@ Wir möchten eine Website erstellen, welche die Angebote, Preise und sonstige vo
 | 5.B  |23.05.2023 | Elias Spycher| Erstellen und Design Webseitenteil Dojo Urdorf|1|
 | 6.A  |23.05.2023 | Cedric Tuma | Erstellen und programmieren Button Dojo Dietikon|1| 
 | 6.B |23.05.2023 |Cedric Tuma | Erstellen und Design Webseitenteil Dojo Dietikon|1|
-| 7.A |23.05.2023 |Samuel Lucena| Erstellen und programmieren Button Coaches|1|
-| 7.B |23.05.2023| Samuel Lucena| Erstellen und Design Webseitenteil Coaches|1|
-| 8.A |23.05.2023| Elias Spycher| Erstellen und programmieren Button Warum Nippon?|1|
-| 8.B |23.05.2023| Elias Spycher| Erstellen und Design Webseitenteil Warum Nippon?|1|
+| 8.A |23.05.2023 |Samuel Lucena| Erstellen und programmieren Button Coaches|1|
+| 8.B |23.05.2023| Samuel Lucena| Erstellen und Design Webseitenteil Coaches|1|
+| 7.A |23.05.2023| Elias Spycher| Erstellen und programmieren Button Warum Nippon?|1|
+| 7.B |23.05.2023| Elias Spycher| Erstellen und Design Webseitenteil Warum Nippon?|1|
 | 9.A |23.05.2023| Cedric Tuma | Erstellen und programmieren Button Angebot|1|
 | 10.A|23.05.2023| Samuel Lucena| Erstellen und programmieren Button Kontakt|1|
 | 10.B|23.05.2023| Samuel Lucena| Erstellen und Design Webseitenteil Kontakt|1|
@@ -133,32 +133,84 @@ Total: 39x 1 = 39x 45Min
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Informationen zu Dojo und Kontaktdaten sind im Footer.
+Arbeitspaket: 5 Footer für Dojo Infos und Kontaktdaten programmieren.
+Arbeitspaket 6+ 10 gestrichen.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
+| 1.A | 16.05.2023| Elias Spycher|1|2|
 | 2.A| 16.05.2023| Elias Spycher| 1| 3| 
 | 2.B| 23.05.2023| Elias Spycher| 1| 3|
-| 7.B  | 16.05.2023  | Samuel Lucena  |   1      |     2      |
+|3.A| 23.05.2023| Elias Spycher| 1|1|
+|3.B| 23.05.2023| Elias Spycher| 1| 2|
+|5.A| 12.06.2023| Rebecca Willi| 1|2|
+|8.A| 16.05.2023| Samuel Lucena|1|1
+|8.B | 16.05.2023  | Samuel Lucena  |   1      |     2      |
+|9.A| 16.05.2023| Rebecca Willi| 1|1|
 | 13.B  |16.05.2023 |Rebecca Willi| 1 | 3 |
+|13.D| 23.05.2023| Cedric Tuma| 1| 3|
+|13.E| 30.052023| Cedric Tuma| 1|3|
 |14.A| 23.05.2023| Rebecca Willi| 1|2|
 |14.C| 23.05.2023| Rebecca Willi| 1| 3|
 |14.D| 30.05.2023| Rebecca Willi| 1|3|
+|15.A| 30.05.2023| Samuel Lucena|1|1|
+|16.A|06.06.2023| Cedric Tuma| 1|2| 
 |17.A|30.05.2023/06.06.2023|Rebecca Willi| 1| 3 |
+|18.A|06.06.2023/12.06.2023| Elias Spycher|1|2
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1.1  | 19.06.2023| OK  |   Rebecca Willi     |
+| 1.1.2 | 19.06.2023|  OK      |Rebecca Willi|
+|2.1.1| 19.06.2023 | NOK(Hamburgermenu immer angezeigt| Rebecca Willi|
+|2.1.2| 19.06.2023 | NOK(")| Rebecca Willi| 
+| 3.1.1| 19.06.2023| OK| Rebecca Willi| 
+|3.1.2| 19.06.2023 | OK | Rebecca Willi|
+|4.1| 19.06.2023| Nicht bearbeitet| Rebecca Willi| 
+|5.1.1| 19.06.2023| OK| Rebecca Willi|
+|5.1.2| 19.06.2023| OK| Rebecca Willi|
+|7.1.1| 19.06.2023| Nicht bearbeitet| Rebecca Willi| 
+|8.1.1| 19.06.2023| OK| Rebecca Willi| 
+|8.1.2| 19.06.2023| OK| Rebecca Willi| 
+|9.1.1| 19.06.2023|OK | Rebecca Willi| 
+|9.1.2| 19.06.2023| OK | Rebecca Willi|
+|10.1| 19.06.2023 | Nicht bearbeitet|Rebecca Willi|
+|11.1| 19.06.2023| Nicht bearbeitet| Rebecca Willi|
+|12.1| 19.06.2023| Nicht bearbeitet| Rebecca Willi|
+|13.1.1| 19.06.2023|NOK (Preise und Kurse unterschidlicher Button im Burgermenu)| Rebecca Willi|
+|13.1.2| 19.06.2023|NOK (")| Rebecca Willi|
+|13.2.1| 19.06.2023| NOK (")| Rebecca Willi|
+|13.2.2| 19.06.2023||NOK (")| Rebecca Willi| 
+| 14.1| 19.06.2023| Nicht in fertiges Produkt miteinbezogen.| Rebecca Willi|
+| 14.2| 19.06.2023| "| Rebecca Willi|
+|15.1.1| 19.06.2023| | Rebecca Willi|
+|15.1.2| 19.06.2023| | Rebecca Willi|
+|15.2.1|19.06.2023| | Rebecca Willi|
+|16.1.1| 19.06.2023|OK|Rebecca Willi|
+|16.1.2| 19.06.2023|OK| Rebecca Willi| 
+|16.2 | 19.06.2023| Nicht bearbeitet| Rebecca Willi|
+| 17.1.1| 19.06.2023| OK| Rebecca Willi|
+| 17.1.2| 19.06.2023| OK| Rebecca Willi|
+|17.2.1| 19.06.2023| OK | Rebecca Willi|
+| 17.2.2| 19.06.2023| OK| Rebecca Willi|
+| 18.1.1| 19.06.2023| OK| Rebecca Willi| 
+| 18.1.2|19.06.2023| OK| Rebecca Willi|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
+
+
+
+Getestet mit Edge und Chrome.
+
+Die Webseite erfüllt ihren Zweck. Jedoch gibt es zwischendurch Fehler welche jedoch keine schwierigkeiten darstellen beim Benutzen der Webseite. 
 
 ## 6 Auswerten
 
