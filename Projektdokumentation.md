@@ -188,7 +188,7 @@ Arbeitspaket 6+ 10 gestrichen.
 |13.1.1| 19.06.2023|NOK (Preise und Kurse unterschidlicher Button im Burgermenu)| Rebecca Willi|
 |13.1.2| 19.06.2023|NOK (")| Rebecca Willi|
 |13.2.1| 19.06.2023| NOK (")| Rebecca Willi|
-|13.2.2| 19.06.2023||NOK (")| Rebecca Willi|  
+|13.2.2| 19.06.2023|NOK (")| Rebecca Willi|  
 | 14.1| 19.06.2023| Nicht in fertiges Produkt miteinbezogen.| Rebecca Willi|
 | 14.2| 19.06.2023| "| Rebecca Willi|
 |15.1.1| 19.06.2023| OK| Rebecca Willi|
