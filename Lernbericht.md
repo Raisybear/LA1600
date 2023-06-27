@@ -11,8 +11,7 @@ In diesem Projekt habe ich gelern, Wie man ein schönes dropdown menu macht.
 
 ## Beschreibung
 
-
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+(https://youtu.be/h-uvUGVA5MY)
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
