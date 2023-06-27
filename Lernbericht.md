@@ -15,13 +15,11 @@ In diesem Projekt habe ich gelern, Wie man ein schönes dropdown menu macht.
 
 <img width="331" alt="Bildschirmfoto 2023-06-27 um 8 54 24 AM" src="https://github.com/Raisybear/LA1600/assets/89131189/dc5d505f-e4ef-4213-bfb7-7abbcd3b6449">
 
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+ Wir haben hier ein Dropdown menu gemacht, welches sich automatisch öffnet, sobald men mit der Maus darüber hovert. Wie man oben sehen kann, haben wir die Position des Navs absolut gemacht und dann darunter Blöcke gemacht, worin wir dann die einzelnen Verlinkungen gemacht haben. Dann haben wir noch gemacht, dass es eine andere Farbe gibt, wenn man mit der Maus darüber schwebt. Wir haben uns für ein dropdown menu entschieden, weil wir nicht oben eine Bar wollten, die immer dort bleibt und unnötig viel Platz einnimmt. Zuden finden wir auch noch, dass es um einiges besser aussieht als nur einen Streifen durch die Webseite.
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Im Video kann man sehen, wie das drop-down menu herunterkommt, sobald die Maus draüber hovert. In dem Foto sieht man den Code, welcher benötigt wird um das Ganze zum laufen zu bringen. Im Text beschreibe ich dann noch, wie das Ganze funktioniert und warum wir das gemacht haben.
 
 # Reflektion zum Arbeitsprozess
 
