@@ -11,7 +11,7 @@ In diesem Projekt habe ich gelern, Wie man ein schönes dropdown menu macht.
 
 ## Beschreibung
 
-(https://youtu.be/h-uvUGVA5MY)
+Hier auf das Bild drücken, um das YouTube Video zu öffnen!
 [![DROPDOWN](https://cdn.discordapp.com/attachments/964772941994799144/1123150030975541320/Bildschirmfoto_2023-06-27_um_9.17.07_AM.png)](https://youtu.be/h-uvUGVA5MY?t=5s "DROPDOWN")
 
 <img width="331" alt="Bildschirmfoto 2023-06-27 um 8 54 24 AM" src="https://github.com/Raisybear/LA1600/assets/89131189/dc5d505f-e4ef-4213-bfb7-7abbcd3b6449">
