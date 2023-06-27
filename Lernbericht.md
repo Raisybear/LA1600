@@ -13,7 +13,8 @@ In diesem Projekt habe ich gelern, Wie man ein schönes dropdown menu macht.
 
 (https://youtu.be/h-uvUGVA5MY)
 
-* Eine textliche Beschreibung
+<img width="331" alt="Bildschirmfoto 2023-06-27 um 8 54 24 AM" src="https://github.com/Raisybear/LA1600/assets/89131189/dc5d505f-e4ef-4213-bfb7-7abbcd3b6449">
+
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
