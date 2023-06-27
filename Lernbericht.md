@@ -1,15 +1,16 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Lime von Elias Spycher, Samuel Enrique, Rebecca Willi und Cedric Tuma
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Wir haben eine Webseite gemacht, bei welcher man sehr viele Informationen über den Kampfsport herausfinden kann.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+In diesem Projekt habe ich gelern, Wie man ein schönes dropdown menu macht.
 
 ## Beschreibung
+
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
@@ -24,8 +25,8 @@
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Bei uns lief die Kommunikation sehr gut. Wir konnten immer miteinander reden und wussten auch was der andere meint. Dadurch kam es zu sehr wenig komplikationen beim programmieren.
 
-👎 und etwas, was nicht gut lief.
+Etwas, das nicht so gut war ist, dass wir teilweise nicht all zu produktiv waren und diese Zeit besser hätten nutzen können. Dies liegt vorallem daran, dass wir noch nicht mal ein richtiges design hatten aber trotzdem elias uns schon gesagt hat, dass wir die Unterseiten machen sollen.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Das nächste Mal müssen wir gezielter arbeiten und einen klareren Plan machen und nicht nur, dass jeder eine Unterseite machen muss, wenn das Design noch nicht mal fest steht.
